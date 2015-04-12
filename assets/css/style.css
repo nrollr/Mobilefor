@@ -1,0 +1,65 @@
+#explain {
+	font-family: "Open Sans",Arial,sans-serif;
+	font-style: italic;
+	font-size: 12px; 
+	color: gray; 
+	margin-top: 25px; }
+
+#list {
+	margin-bottom: 5px;
+}
+
+#table {
+	background-color: #F9F9F9;
+	border-collapse: collapse;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	   -moz-border-radius: 6px;
+	font-family: "Open Sans",Arial,sans-serif;
+	color: #333; }
+
+#table th {
+	background-color: rgba(192, 192, 192, 0.26);
+			   font-family: 'Ubuntu',sans-serif;
+	 							 font-size: 90%;
+							   font-weight: 500;
+   					   padding: 5px 2px 5px 4px;
+							   text-align: left; }
+
+#table th.c1 { 
+	        border-top-left-radius: 6px;
+	-webkit-border-top-left-radius: 6px;
+		-moz-border-radius-topleft: 6px;
+						   width: 100px; 
+	   				 padding-left: 10px; 
+					   font-weight: 300; }
+					   
+#table th.c2 { width: 200px; font-weight: 300; }
+#table th.c3 { width: 100px; font-weight: 300; }
+
+#table th.c4 { 
+    	border-top-right-radius: 6px;
+-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topright: 6px;		
+						width: 150px; 
+					font-weight: 300; }
+
+#table td { 
+			 font-size: 12px; 
+	padding: 2px 2px 2px 4px; 
+		 vertical-align: top; }
+
+#table tbody tr:hover td { background-color: rgba(192, 192, 192, 0.26);}	
+#table td, #table th { border-top-color: white; color: #555; }	
+#table td.code { padding-left: 10px; }	
+
+ .url { color: #333; text-decoration: none; }
+a.url {	padding-left: 5px; }
+
+a.click { color: rgb(0, 170, 239); text-decoration: none; }
+ .click { padding-right: 5px; }
+	
+input[type="text"], textarea { outline: none; box-shadow:none !important; border:1px solid #ccc !important; }
+	
+a.link { text-decoration: none; }	
+	
