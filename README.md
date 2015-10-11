@@ -2,7 +2,7 @@
 
 This repository allows you to query location data stored in a MySQL database. The database contains the location data of P&D machines throughout the city of Leuven with their corresponding [4411](https://www.4411.be/en/how-does-it-work/on-street/) parking code, which you can use to start and stop a parking session.
 
-Layout of the webpages are built with the [Bootstrap](http://getbootstrap.com/) framework. All pages have been tested with Apache/2.2.26 , PHP v.5.4.30 and MySQL v5.6.20
+Layout of the webpages are built with the [Bootstrap](http://getbootstrap.com/) framework. All pages have been tested with Apache/2.4.16 , PHP v.5.5.27 and MySQL v5.6.27
 
 Download and copy the content of this repository to the DocumentRoot of your webserver… 
 
