@@ -1,0 +1,2480 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Brusselsestraat",
+                "name": "31101",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697505,
+                    50.880039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Brusselsestraat",
+                "name": "31102",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697001,
+                    50.880219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Brusselsestraat",
+                "name": "31103",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.696156,
+                    50.880306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Brusselsestraat",
+                "name": "31104",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.690363,
+                    50.881187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Lei",
+                "name": "31105",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.696856,
+                    50.88176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Lei",
+                "name": "31106",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69642,
+                    50.880714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Dirk Boutslaan",
+                "name": "31107",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.699407,
+                    50.880371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Dirk Boutslaan",
+                "name": "31108",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697422,
+                    50.881218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Amerikalaan",
+                "name": "31109",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.698399,
+                    50.880146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Amerikalaan",
+                "name": "31110",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697575,
+                    50.880867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Fonteinstraat",
+                "name": "31201",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693404,
+                    50.881401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Fonteinstraat",
+                "name": "31202",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693525,
+                    50.882347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Pieter Coutereelstraat",
+                "name": "31203",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.695124,
+                    50.882305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Zevenslapersstraat",
+                "name": "31204",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.694383,
+                    50.88184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Predikherinnenstraat",
+                "name": "31205",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693922,
+                    50.881603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Fonteinstraat",
+                "name": "31206",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693716,
+                    50.883511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Petermannenstraat",
+                "name": "31207",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693045,
+                    50.883556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Brouwersstraat",
+                "name": "31208",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.695987,
+                    50.88266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Brouwersstraat",
+                "name": "31209",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.694748,
+                    50.882847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Brouwersstraat",
+                "name": "31210",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.694772,
+                    50.882881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Halvestraat",
+                "name": "31216",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697581,
+                    50.88356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Raoul Claesstraat",
+                "name": "31217",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.696889,
+                    50.883511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Mechelsestraat",
+                "name": "31218",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.698867,
+                    50.882271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Mechelsestraat",
+                "name": "31219",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.698392,
+                    50.883511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Craenendonck",
+                "name": "31220",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69794,
+                    50.881927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vismarkt",
+                "name": "31221",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700228,
+                    50.881641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Craenendonck",
+                "name": "31222",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.699265,
+                    50.881409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Karel van Lotharingenstraat",
+                "name": "31223",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.699692,
+                    50.882545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Craenendonck",
+                "name": "31224",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.698667,
+                    50.881638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Sint-Jacobsplein",
+                "name": "31401",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691561,
+                    50.879951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Sint-Jacobsplein",
+                "name": "31402",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69121,
+                    50.879272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Sint-Jacobsplein",
+                "name": "31403",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.690261,
+                    50.879429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Sint-Jacobsplein",
+                "name": "31404",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.690406,
+                    50.880047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Kruisstraat",
+                "name": "31405",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.690604,
+                    50.880524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Pelgrimstraat",
+                "name": "31406",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691355,
+                    50.880226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Sint-Jacobsplein",
+                "name": "31407",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691248,
+                    50.879265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Wagenweg",
+                "name": "31408",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.692157,
+                    50.880268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vaartstraat",
+                "name": "32101",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702261,
+                    50.880711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Ferdinand Smoldersplein",
+                "name": "32102",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.701434,
+                    50.880615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32103",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.707972,
+                    50.881657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Sint-Maartenstraat",
+                "name": "32104",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.705267,
+                    50.881721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Rijschoolstraat",
+                "name": "32105",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703522,
+                    50.881439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Rijschoolstraat",
+                "name": "32106",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.704449,
+                    50.881828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Lepelstraat",
+                "name": "32109",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70803,
+                    50.88039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Nerviersstraat",
+                "name": "32110",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708231,
+                    50.882111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Nerviersstraat",
+                "name": "32116",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709449,
+                    50.88261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Nerviersstraat",
+                "name": "32117",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710385,
+                    50.882988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vanden Tymplestraat",
+                "name": "32118",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71163,
+                    50.882378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vaartstraat",
+                "name": "32201",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.701475,
+                    50.881603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vaartstraat",
+                "name": "32202",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70114,
+                    50.88261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vaartstraat",
+                "name": "32203",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700931,
+                    50.883778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vaartstraat",
+                "name": "32204",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700882,
+                    50.884716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vaartstraat",
+                "name": "32205",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.701102,
+                    50.886204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32206",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70735,
+                    50.88224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32208",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703816,
+                    50.885159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32209",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.706643,
+                    50.882904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32211",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702604,
+                    50.88641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32212",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702164,
+                    50.886806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32216",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70292,
+                    50.886032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Mathias Van den Gheynlaan",
+                "name": "32217",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7064,
+                    50.882671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32218",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.705686,
+                    50.883743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jan-Pieter Minckelersstraat",
+                "name": "32219",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.704506,
+                    50.884724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Mathias Van den Gheynlaan",
+                "name": "32220",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7049,
+                    50.882462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Mathias Van den Gheynlaan",
+                "name": "32221",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70551,
+                    50.88203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Sint-Maartenstraat",
+                "name": "32222",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.704007,
+                    50.882751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Kardinaalstraat",
+                "name": "32223",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70233,
+                    50.885136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Sint-Maartenstraat",
+                "name": "32224",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703344,
+                    50.88419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Lombaardenstraat",
+                "name": "32225",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702363,
+                    50.883999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Rijdende Artillerielaan",
+                "name": "32231",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.704194,
+                    50.883545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vital Decosterstraat",
+                "name": "32232",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7035,
+                    50.882015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vital Decosterstraat",
+                "name": "32233",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702285,
+                    50.882729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vaartstraat",
+                "name": "32234",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70114,
+                    50.883183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tweewaterstraat",
+                "name": "32235",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.705055,
+                    50.884678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Strijdersstraat",
+                "name": "32236",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709334,
+                    50.882854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Strijdersstraat",
+                "name": "32237",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708414,
+                    50.883888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jean-Baptiste Van Monsstraat",
+                "name": "32238",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710313,
+                    50.88409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jean-Baptiste Van Monsstraat",
+                "name": "32239",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708631,
+                    50.883232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Weidestraat",
+                "name": "32240",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709841,
+                    50.883278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vanden Tymplestraat",
+                "name": "32246",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710474,
+                    50.883499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Diestevest",
+                "name": "32247",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711941,
+                    50.883961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Diestevest",
+                "name": "32248",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712145,
+                    50.884083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Diestevest",
+                "name": "32249",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710929,
+                    50.885185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Diestevest",
+                "name": "32250",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710889,
+                    50.884907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Diestevest",
+                "name": "32251",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709975,
+                    50.885681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Onze-Lievevrouwstraat",
+                "name": "33101",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697932,
+                    50.879021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Onze-Lievevrouwstraat",
+                "name": "33102",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.696598,
+                    50.879093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Onze-Lievevrouwstraat",
+                "name": "33103",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.695405,
+                    50.878437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Minderbroedersstraat",
+                "name": "33105",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6964,
+                    50.877663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Kapucijenvoer",
+                "name": "33201",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691959,
+                    50.878651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Kapucijenvoer",
+                "name": "33202",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691575,
+                    50.878021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Pater Damiaanplein",
+                "name": "33204",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697524,
+                    50.876129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Naamsestraat",
+                "name": "33205",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70027,
+                    50.875175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Naamsestraat",
+                "name": "33206",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.699632,
+                    50.871948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Ramberg",
+                "name": "33207",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69843,
+                    50.875813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Herbert Hooverplein",
+                "name": "34106",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70615,
+                    50.877502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Herbert Hooverplein",
+                "name": "34107",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.706587,
+                    50.877331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Maria Theresiastraat",
+                "name": "34108",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713923,
+                    50.879845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Ravenstraat",
+                "name": "34109",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708328,
+                    50.878021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Koning Leopold I-Straat",
+                "name": "34110",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70794,
+                    50.878689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Koning Leopold I-Straat",
+                "name": "34116",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70943,
+                    50.879768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Willemsstraat",
+                "name": "34117",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709383,
+                    50.879223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Ravenstraat",
+                "name": "34118",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.706952,
+                    50.877071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Ravenstraat",
+                "name": "34119",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71018,
+                    50.879101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Justus Lipsiusstraat",
+                "name": "34120",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71047,
+                    50.88007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vlamingenstraat",
+                "name": "34203",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.706083,
+                    50.876118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vlamingenstraat",
+                "name": "34204",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703097,
+                    50.874943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Vlamingenstraat",
+                "name": "34205",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.701561,
+                    50.874378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensestraat",
+                "name": "34206",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.706732,
+                    50.876362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensestraat",
+                "name": "34207",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708845,
+                    50.875568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensestraat",
+                "name": "34208",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710433,
+                    50.87495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensestraat",
+                "name": "34209",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71153,
+                    50.874508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensestraat",
+                "name": "34210",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712874,
+                    50.874012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Andreas Vesaliusstraat",
+                "name": "34216",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.707598,
+                    50.875141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Dekenstraat",
+                "name": "34217",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709688,
+                    50.873554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Dekenstraat",
+                "name": "34218",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708403,
+                    50.874233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Dekenstraat",
+                "name": "34219",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711219,
+                    50.873096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Dekenstraat",
+                "name": "34220",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712112,
+                    50.87257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Brabanconnestraat",
+                "name": "34221",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709814,
+                    50.874695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Gildenstraat",
+                "name": "34222",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709717,
+                    50.873844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Windmolenstraat",
+                "name": "34223",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710833,
+                    50.874264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Windmolenstraat",
+                "name": "34224",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710581,
+                    50.873756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Schepenenstraat",
+                "name": "34225",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711007,
+                    50.87365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Windmolenveldstraat",
+                "name": "34231",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712617,
+                    50.873535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tomveldstraat",
+                "name": "34232",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711721,
+                    50.873363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Geldenaaksevest",
+                "name": "34233",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712842,
+                    50.872524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Geldenaaksevest",
+                "name": "34234",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709695,
+                    50.869987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Geldenaaksevest",
+                "name": "34235",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70814,
+                    50.869469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Blijde Inkomststraat",
+                "name": "34236",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.707791,
+                    50.8773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Blijde Inkomststraat",
+                "name": "34237",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708853,
+                    50.876724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Blijde Inkomststraat",
+                "name": "34238",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710082,
+                    50.876053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Blijde Inkomststraat",
+                "name": "34239",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711069,
+                    50.875507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Blijde Inkomststraat",
+                "name": "34240",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712271,
+                    50.87484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensevest",
+                "name": "34246",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.714103,
+                    50.873837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Maria Theresiastraat",
+                "name": "34248",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711203,
+                    50.877888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Maria Theresiastraat",
+                "name": "34249",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712246,
+                    50.878674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Burgemeestersstraat",
+                "name": "34250",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711495,
+                    50.875954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Jozef II-Straat",
+                "name": "34253",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712558,
+                    50.877888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Justus Lipsiusstraat",
+                "name": "34254",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715205,
+                    50.87801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Justus Lipsiusstraat",
+                "name": "34255",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713604,
+                    50.878731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Bogaardenstraat",
+                "name": "34261",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709814,
+                    50.877869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Bogaardenstraat",
+                "name": "34262",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711388,
+                    50.877102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Quinten Metsysplein",
+                "name": "34263",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712271,
+                    50.876442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Arnould Nobelstraat",
+                "name": "34264",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713083,
+                    50.877182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Arnould Nobelstraat",
+                "name": "34265",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713955,
+                    50.877922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Dagobertstraat",
+                "name": "34266",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713671,
+                    50.875935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Professor Van Overstraetenplein",
+                "name": "34267",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71565,
+                    50.879269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensevest",
+                "name": "34268",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71528,
+                    50.879272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensevest",
+                "name": "34269",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715661,
+                    50.87825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensevest",
+                "name": "34270",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715492,
+                    50.877068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Professor Van Overstraetenplein",
+                "name": "34271",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71536,
+                    50.879967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensevest",
+                "name": "34276",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71517,
+                    50.876122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensevest",
+                "name": "34277",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.714556,
+                    50.874638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Nieuwe Kerkhofdreef",
+                "name": "36101",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711187,
+                    50.86961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Nieuwe Kerkhofdreef",
+                "name": "36102",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711184,
+                    50.869778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Pleinstraat",
+                "name": "36103",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713051,
+                    50.869675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Kerkhofdreef",
+                "name": "36104",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712482,
+                    50.870644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Pleinstraat",
+                "name": "36105",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713692,
+                    50.870384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Philipssite",
+                "name": "36107",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712474,
+                    50.868851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Leon Schreursvest",
+                "name": "36202",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713974,
+                    50.872856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Leon Schreursvest",
+                "name": "36203",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712464,
+                    50.871399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensepoort",
+                "name": "36220",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.716044,
+                    50.876442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensepoort",
+                "name": "36221",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715551,
+                    50.875294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Tiensepoort",
+                "name": "36222",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.714921,
+                    50.873913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Groenveldstraat",
+                "name": "38401",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.683395,
+                    50.876705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "address": "Herestraat",
+                "name": "38402",
+                "type": "terminal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.683062,
+                    50.877197
+                ]
+            }
+        }
+    ]
+}
