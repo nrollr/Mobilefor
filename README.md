@@ -24,6 +24,11 @@ The main page `index.php` offers a user to query the database, using two methods
 
 Switch to the contents of the `view/` directory (eg. [http://localhost/view](http://localhost/view/index.php) ) and you will see a map with a visual representation of P&D machines throughout the city. This uses the [**Google Maps Javascript API**](https://developers.google.com/maps/documentation/javascript/tutorial) and requires you to edit the `index.php` file in the `view/` directory, where you’ll need to insert your own developer key.
 
+## Component interactions
+The following figure illustrates the interaction between the different components :
+![Screenshot](https://raw.githubusercontent.com/nrollr/Mobilefor/screenshot/data/screenshot/flow%402x.png)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
